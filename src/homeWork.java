@@ -29,7 +29,7 @@ public static void checkSumSign(){
     }
 }
 public static void printColor(){
-        int value = -105; // поменяй число
+        int value = -105; // поменяй число на другое
         if (value <= 0)
         {
             System.out.println("Красный");
